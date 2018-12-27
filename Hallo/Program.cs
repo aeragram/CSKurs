@@ -10,6 +10,7 @@ namespace Hallo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Changing master");
         }
     }
 }
